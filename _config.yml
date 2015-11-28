@@ -7,4 +7,5 @@ description: Abhijeet Mohan is a developer and works at Stayzilla
 # Build settings
 markdown: kramdown
 
+# Ignored files
 exclude: ["README.md"]
