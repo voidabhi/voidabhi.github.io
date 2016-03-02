@@ -20,5 +20,5 @@ You should probably also know that I do not have a sleep schedule, which means t
 
 You can contact me through my email address, **void.aby@gmail.com**.
 
-You can also say "hi" to me on [Twitter](https://twitter.com/voidabhi), where I post professional and personal thoughts.
+You can also say "hola!" to me on [Twitter](https://twitter.com/voidabhi), where I post professional and personal thoughts.
 
