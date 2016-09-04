@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/voidabhi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://voidabhi.com
+  * I am voidabhi (https://keybase.io/voidabhi) on keybase.
+  * I have a public key with fingerprint 8079 7722 0B29 1326 3E02  CDE9 56A7 7877 ABA9 1EE1
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01016c0e8434b8b4b170e39e30708c19088088807c8d78d7c1468fb700a60e53681f0a",
+            "fingerprint": "807977220b2913263e02cde956a77877aba91ee1",
+            "host": "keybase.io",
+            "key_id": "56a77877aba91ee1",
+            "kid": "01016c0e8434b8b4b170e39e30708c19088088807c8d78d7c1468fb700a60e53681f0a",
+            "uid": "8953eaf102c8da8ed022faa5abbb8019",
+            "username": "voidabhi"
+        },
+        "service": {
+            "hostname": "voidabhi.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1473021847,
+    "expire_in": 157680000,
+    "prev": "16d72e258cee813cb565dc326f9557ca5654a0e407149b42863477ab65795acf",
+    "seqno": 11,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.56
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJbSFRBGN5NTbNCiUwDjToUldk6c24zZ3spu0vR7UGCaJs5Z9Y9uJ6z
+nT27rdiFggjJiiKzqCClHsrespcK8hLdVAq7SFGYZhLR9tYFiWqO1Ev02PDD8P/z
+fd98/z9zZ2qGL9f/5PPCwOJo+21/T2dzwlfVe6i5XqC2UScE64UaNr6xqMHibqjG
+NISgACCAqg4YliWZYipTiACTNCYBBLAONYAxDwyQjg3EQ4eyisMUAUBUwBRJxTAM
+iFAmhE2rmjkxx7RcLssJGkKiCKioQUlUJQZE3WCaohKEMEKEEg0yBjkxYsc9BjdH
+SZwFTJvXeBIat/cP/H/2nRiXw5oiMRKG3CU2CGYGEMUwIQqhlGIANQ8YZ45FahlH
+J23TIDRiCnvKBF5NmjrzBut18hcioNu1nBtzbNfW7Sg/ibhuLOgR3bqYh9zFaOi3
+RoialsHHyAlJ5sRN2xKCkCN11/REoYwkIEIsozKBpWKmw0Kmh1CQigFf3jUsySWh
+aiCRiQrWGcNQ0qmiKobOXyGsKQrSCU9lApgMEJQ1KotYlWRvxKqCNIXoYcHraqdl
+c23IfZJqrhk3qy3iJhwm7Onq2Jbp8+f6JmZN8P6XL3dS/p9fV5Gb/dP99CCr+/iS
+NcemiV1vCno2NaQajmypXzr2csvmliMrrfTb+cs6pqROf73e/b0UzzaOnZPG3h3o
+bLxa0peTt7orZ3mkqPfSg8z6yv6C5cnJ0s2xT/syNpYMn0+cfS32laaLF9dWDnwc
+6n2/fcdwdP++Fkecdu3io7aH0XT34ZRfanJPnJwcTre+qLo/+FQKnBqZc3lWUX/n
+rRsXykeePZ/1vbx09Oz2x4Ezd0dHGmPZ14Nbt0U+fDEK81+1NzoNTTObE0N5BWV7
+1106WlfSsXvB+nXa9NYXPcVr2zaY2u7sg0tX0Rnpe4PnBwcW+ecV/Wy/MmfGcGrF
+vYqU+63K+pFZODeq94Z+AerSPjo=
+=MG00
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/voidabhi
+
+==================================================================
