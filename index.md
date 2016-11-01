@@ -4,15 +4,13 @@ layout: default
 
 <hr/>
 
-Hi, my name is **Abhijeet Mohan** , and I'm a software development engineer at **Stayzilla**.
+Hi, my name is **Abhijeet Mohan** , and I'm a software engineer at **Stayzilla**.
 
 My current location is **Bangalore, India**.
 
 On the web and with friends, I am also known as **voidabhi**, which has been my nickname since long time.
 
 I am a regular **opensourcer**. Here is my [Github account](https://github.com/voidabhi)
-
-I am also into **information designing** :). Checkout my work at [Indian Hustlers](http://www.indianhustlers.com)
 
 Also, i have been featured [here](http://www.miet.ac.in/image/iipc-best-it-project.pdf) and [here](http://blog.venturesity.com/hackathon-diaries-stayzilla).
 
