@@ -1,8 +1,8 @@
 # Site settings
 title: Hi! I'm Abhijeet
 tag_text: Abhijeet Mohan
-keywords: Abhijeet Mohan, Software Development Engineer, Stayzilla, Bangalore, India
-description: Abhijeet Mohan is a software developer who works for Stayzilla
+keywords: Abhijeet Mohan, Software Development Engineer, Bangalore, India
+description: Abhijeet Mohan is a software developer
 
 # Build settings
 markdown: kramdown
