@@ -4,7 +4,7 @@ layout: default
 
 <hr/>
 
-Hi, my name is **Abhijeet Mohan** , and I'm a software engineer at **AgaraLabs**.
+Hi, my name is **Abhijeet Mohan** , and I'm a software engineer.
 
 My current location is **Bangalore, India**.
 
